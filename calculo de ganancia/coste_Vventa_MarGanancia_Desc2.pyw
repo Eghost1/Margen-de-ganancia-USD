@@ -19,7 +19,6 @@ def calcular_margen():
 # Crear la ventana de la aplicación
 ventana = tk.Tk()
 ventana.title("Calculador de margen de ganancia y descuentos")
-ventana.iconbitmap('C:\\Users\\diego\\OneDrive\\Escritorio\\calculo ganancia\\dolar.ico')
 
 # Fijar el tamaño de la ventana
 ventana.geometry("600x220")  # Fijar tamaño de la ventana
